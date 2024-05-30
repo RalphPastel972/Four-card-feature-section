@@ -94,6 +94,7 @@ h2 {
 @media screen and (min-width: 862px) {
   .chapeau p {
     max-width: none;
+    font-size: larger;
   }
   .chapeau {
     text-align: center;
@@ -125,5 +126,13 @@ h2 {
     grid-column-start: 3;
     bottom: 50%;
     position: relative;
+  }
+
+  h1 {
+    font-size: xx-large;
+  }
+
+  h2 {
+    font-size: xx-large;
   }
 }
