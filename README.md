@@ -64,7 +64,7 @@ n/a
 
 #### Challenges
 
-I was not sure th best option to place the tiles between 2 lines.
+I was not sure the best option to place the tiles between 2 lines.
 
 #### Help needed
 
