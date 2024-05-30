@@ -18,8 +18,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
     - [Help needed](#Help-needed)
     - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
